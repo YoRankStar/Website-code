@@ -7,4 +7,4 @@ Hey. This website was originally made by someone (I forked it) and they asked me
   4. Made navbar, toasts and some other elements slightly transparent and blurry.
 
 Click here to check out the website:
-<button src="">Open Website</button>
+<kbd><a href="https://66de8951-77f8-4005-a179-76f0ed318b18-00-19vi3xkjl3pmq.sisko.replit.dev/">Click Me!</a></kbd>
